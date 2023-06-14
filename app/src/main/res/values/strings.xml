@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Betshops</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="main_screen_top_bar_title">Bet shops</string>
+
+    <string name="main_screen_top_bar_arrow_content_description">Go back</string>
+
+</resources>

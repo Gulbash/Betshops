@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Betshops" parent="@style/Theme.Leanback" />
+</resources>
