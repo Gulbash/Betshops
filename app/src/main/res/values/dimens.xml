@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="half_margin">4dp</dimen>
+    <dimen name="smallest_margin">8dp</dimen>
+    <dimen name="small_margin">16dp</dimen>
+    <dimen name="normal_margin">32dp</dimen>
+    <dimen name="huge_margin">48dp</dimen>
+
+    <dimen name="main_screen_info_back_icon_padding">20dp</dimen>
+    <dimen name="main_screen_info_icons_size">36dp</dimen>
+</resources>
