@@ -6,6 +6,8 @@
     <dimen name="normal_margin">32dp</dimen>
     <dimen name="huge_margin">48dp</dimen>
 
+    <dimen name="main_screen_info_route_padding">82dp</dimen>
     <dimen name="main_screen_info_back_icon_padding">20dp</dimen>
-    <dimen name="main_screen_info_icons_size">36dp</dimen>
+    <dimen name="main_screen_info_icons_size">32dp</dimen>
+    <dimen name="main_screen_back_button_size">32dp</dimen>
 </resources>

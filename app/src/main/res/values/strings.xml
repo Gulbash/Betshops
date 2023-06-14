@@ -3,7 +3,16 @@
     <string name="title_activity_main">MainActivity</string>
 
     <string name="main_screen_top_bar_title">Bet shops</string>
+    <string name="main_screen_info_default_phone_number">311-56-44</string>
+    <string name="main_screen_info_open_text">Open now until 16:00</string>
+    <string name="main_screen_info_closed_text">Opens tomorrow at 8:00</string>
+    <string name="main_screen_route_text">ROUTE</string>
 
     <string name="main_screen_top_bar_arrow_content_description">Go back</string>
+    <string name="main_screen_info_location_content_description">Location icon</string>
+    <string name="main_screen_info_phone_content_description">Phone icon</string>
+    <string name="main_screen_info_clock_content_description">Clock icon</string>
+    <string name="main_screen_info_close_content_description">Close icon</string>
+
 
 </resources>
